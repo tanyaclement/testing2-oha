@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "tanyaclement",
+    "is_private": false,
+    "title": "testing2-oha",
+    "description": "brief blah blah",
+    "language": "en",
+    "slug": "testing2-oha",
+    "creator": "tanyaclement",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-10-17T14:28:26.499Z",
+    "updated_at": "2025-10-17T14:28:26.499Z"
   }
 }
