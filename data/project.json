@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "tanyaclement",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-10-17T14:28:26.499Z",
-    "updated_at": "2025-10-17T14:28:26.499Z"
-  }
+    "updated_at": "2025-10-17T14:28:26.499Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "e76e5602-f8a1-4342-acdd-844a9695aed9": {
+      "content": [],
+      "created_at": "2025-10-17T14:28:26.519Z",
+      "created_by": "tanyaclement",
+      "title": "testing2-oha",
+      "updated_at": "2025-10-17T14:28:26.519Z",
+      "updated_by": "tanyaclement",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "e76e5602-f8a1-4342-acdd-844a9695aed9"
+  ]
 }
